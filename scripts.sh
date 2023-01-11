@@ -36,3 +36,10 @@ else
         echo You will get temporary id #In these line Iam facing error
 
 if
+if [ $age -ge 18 ]
+then 
+        echo You can be neosoft Employee!
+else 
+        echo You can be neosoft Intern!
+fi
+
